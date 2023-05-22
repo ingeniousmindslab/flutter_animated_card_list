@@ -1,6 +1,6 @@
 name: flutter_animated_card_list
 description: A Flutter Package which will allow you to animate Credit and Debit card list screen.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ingeniousmindslab/flutter_animated_card_list
 
 environment:
